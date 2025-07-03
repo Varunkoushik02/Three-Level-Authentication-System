@@ -29,13 +29,17 @@ A secure web-based authentication system that verifies a user's identity using *
 
 
 
-project/
-│
-├── static/              # CSS or image files
-├── templates/           # HTML files (login.html, otp.html, pattern.html)
-├── app.py               # Main Flask app
-├── database.sql         # MySQL table structure
-└── README.md            # This file
+
+Three-level-Auth
+
+* static – Contains static files (CSS, images)
+* templates – HTML pages (`login.html`, `otp.html`, etc.)
+* app.py – Core Flask logic
+* database.sql – MySQL table schema
+  
+
+
+
 
 
 
